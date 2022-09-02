@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.courzelo.courzelo_core</groupId>
 	<artifactId>cart</artifactId>
-	<version>1.0</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<name>cart</name>
 	<description>Courzelo_Cart</description>
 	<properties>
